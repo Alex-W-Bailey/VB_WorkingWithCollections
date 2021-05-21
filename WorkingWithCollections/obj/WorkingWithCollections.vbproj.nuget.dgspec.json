@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\alexb\\Documents\\Code\\C#\\vb\\VB_WorkingWithCollections\\WorkingWithCollections\\WorkingWithCollections\\WorkingWithCollections.vbproj": {}
+    "C:\\Users\\alexb\\Documents\\Code\\C#\\vb\\VB_WorkingWithCollections\\WorkingWithCollections\\WorkingWithCollections.vbproj": {}
   },
   "projects": {
-    "C:\\Users\\alexb\\Documents\\Code\\C#\\vb\\VB_WorkingWithCollections\\WorkingWithCollections\\WorkingWithCollections\\WorkingWithCollections.vbproj": {
+    "C:\\Users\\alexb\\Documents\\Code\\C#\\vb\\VB_WorkingWithCollections\\WorkingWithCollections\\WorkingWithCollections.vbproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alexb\\Documents\\Code\\C#\\vb\\VB_WorkingWithCollections\\WorkingWithCollections\\WorkingWithCollections\\WorkingWithCollections.vbproj",
+        "projectUniqueName": "C:\\Users\\alexb\\Documents\\Code\\C#\\vb\\VB_WorkingWithCollections\\WorkingWithCollections\\WorkingWithCollections.vbproj",
         "projectName": "WorkingWithCollections",
-        "projectPath": "C:\\Users\\alexb\\Documents\\Code\\C#\\vb\\VB_WorkingWithCollections\\WorkingWithCollections\\WorkingWithCollections\\WorkingWithCollections.vbproj",
+        "projectPath": "C:\\Users\\alexb\\Documents\\Code\\C#\\vb\\VB_WorkingWithCollections\\WorkingWithCollections\\WorkingWithCollections.vbproj",
         "packagesPath": "C:\\Users\\alexb\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alexb\\Documents\\Code\\C#\\vb\\VB_WorkingWithCollections\\WorkingWithCollections\\WorkingWithCollections\\obj\\",
+        "outputPath": "C:\\Users\\alexb\\Documents\\Code\\C#\\vb\\VB_WorkingWithCollections\\WorkingWithCollections\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
